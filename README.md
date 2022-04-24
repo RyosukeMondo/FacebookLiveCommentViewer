@@ -9,8 +9,11 @@ Chrome
 
 ### インストール方法
 
-Windows版のみ、以下よりダウンロードし解凍する。
+以下よりダウンロードし解凍する。
+Windows版、
 https://github.com/RyosukeMondo/FacebookLiveCommentViewer/releases/download/v1.0/facebookAutomation-v1.0.zip
+MacOS版
+https://github.com/RyosukeMondo/FacebookLiveCommentViewer/releases/download/v1.0/facebookAutomation-v1.0macOs.zip
 
 ### 設定
 
